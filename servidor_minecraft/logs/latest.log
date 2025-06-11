@@ -3094,3 +3094,10 @@ BCLib - The End  BiomeSource (5274b7e7)
 [04:01:30] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/4261, l='ServerLevel[world]', x=102.49, y=63.00, z=148.37] at TeleportTarget{pitch=31.264174, position=(-1.5, 75.0, 22.37305145411611), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-0.61505127}
 [04:01:36] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 184.500000, 57.500000, 108.500000]
 [04:01:52] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[04:04:37] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[04:04:37] [Server thread/INFO]: Pikel_03 left the game
+[04:04:37] [Server thread/WARN]: handleDisconnection() called twice
+[04:04:53] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/960, l='ServerLevel[world]', x=-1.36, y=75.00, z=22.51] at TeleportTarget{pitch=26.875881, position=(102.5, 63.0, 148.50849929162138), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-34.238754}
+[04:05:48] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/960, l='ServerLevel[world]', x=102.30, y=63.00, z=149.31] at TeleportTarget{pitch=19.34944, position=(-1.5, 75.0, 23.31256124283601), velocity=(0.0, -0.0784000015258789, 0.0), yaw=74.65961}
+[04:08:38] [Server thread/INFO]: [ziKoc: Teleported ziKoc to -2.500000, 75.500000, 22.500000]
+[04:08:42] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/960, l='ServerLevel[world]', x=-1.71, y=75.00, z=23.28] at TeleportTarget{pitch=16.11216, position=(102.5, 63.0, 149.2776394142462), velocity=(0.0, -0.0784000015258789, 0.0), yaw=146.44289}
