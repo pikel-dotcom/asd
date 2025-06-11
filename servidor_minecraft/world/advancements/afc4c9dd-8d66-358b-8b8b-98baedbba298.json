@@ -1544,6 +1544,7 @@
       "minecraft:ravager": "2025-06-03 20:19:13 +0000",
       "minecraft:ghast": "2025-05-31 01:38:00 +0000",
       "minecraft:hoglin": "2025-05-31 01:41:30 +0000",
+      "minecraft:guardian": "2025-06-11 02:19:39 +0000",
       "minecraft:vindicator": "2025-06-03 20:05:57 +0000",
       "minecraft:magma_cube": "2025-06-02 00:24:26 +0000",
       "minecraft:spider": "2025-05-30 03:15:10 +0000",
@@ -1551,6 +1552,7 @@
       "minecraft:creeper": "2025-05-30 03:03:56 +0000",
       "minecraft:wither": "2025-06-03 02:23:27 +0000",
       "minecraft:slime": "2025-06-07 02:42:47 +0000",
+      "minecraft:evoker": "2025-06-11 02:57:38 +0000",
       "minecraft:phantom": "2025-06-03 15:40:53 +0000",
       "minecraft:zombified_piglin": "2025-06-10 04:30:15 +0000",
       "minecraft:witch": "2025-06-07 02:41:03 +0000",
@@ -2303,6 +2305,7 @@
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "swamp_village": "2025-06-07 02:40:33 +0000",
+      "illager_manor": "2025-06-11 02:57:06 +0000",
       "illager_camp": "2025-05-31 00:38:31 +0000"
     },
     "done": false
@@ -7351,6 +7354,54 @@
   "travelersbackpack:recipes/misc/pig": {
     "criteria": {
       "has_porkchop": "2025-06-09 03:58:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-11 02:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-11 02:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-11 02:19:39 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_manor": {
+    "criteria": {
+      "nova_structures:illager_manor": "2025-06-11 02:57:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-11 02:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-11 02:58:01 +0000"
+    },
+    "done": true
+  },
+  "master_cutter:recipes/wood/dark_oak": {
+    "criteria": {
+      "requirement": "2025-06-11 02:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-06-11 03:37:49 +0000"
     },
     "done": true
   },

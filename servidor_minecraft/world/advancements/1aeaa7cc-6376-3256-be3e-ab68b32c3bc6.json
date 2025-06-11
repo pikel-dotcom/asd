@@ -13,8 +13,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-06-11 01:58:27 +0000",
       "minecraft:old_growth_pine_taiga": "2025-06-10 02:38:17 +0000",
       "minecraft:taiga": "2025-06-01 03:35:26 +0000",
+      "minecraft:deep_ocean": "2025-06-11 02:16:25 +0000",
       "minecraft:sunflower_plains": "2025-06-03 02:22:51 +0000",
       "minecraft:cherry_grove": "2025-06-04 02:12:31 +0000",
       "minecraft:birch_forest": "2025-06-01 04:28:45 +0000",
@@ -22,24 +24,34 @@
       "minecraft:bamboo_jungle": "2025-06-07 03:27:37 +0000",
       "minecraft:beach": "2025-05-30 02:52:51 +0000",
       "minecraft:dark_forest": "2025-06-01 04:30:30 +0000",
+      "minecraft:stony_peaks": "2025-06-11 02:53:46 +0000",
       "minecraft:mangrove_swamp": "2025-06-07 02:40:32 +0000",
       "minecraft:sparse_jungle": "2025-06-07 03:27:35 +0000",
       "minecraft:river": "2025-05-31 01:14:00 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-11 02:26:57 +0000",
       "minecraft:stony_shore": "2025-06-02 03:26:54 +0000",
       "minecraft:snowy_taiga": "2025-06-10 02:38:22 +0000",
+      "minecraft:dripstone_caves": "2025-06-11 01:55:39 +0000",
       "minecraft:swamp": "2025-06-07 02:42:55 +0000",
+      "minecraft:grove": "2025-06-11 02:07:15 +0000",
+      "minecraft:jagged_peaks": "2025-06-11 02:06:41 +0000",
       "minecraft:cold_ocean": "2025-06-03 02:17:19 +0000",
       "minecraft:forest": "2025-05-30 02:51:24 +0000",
       "minecraft:lush_caves": "2025-06-01 04:32:22 +0000",
       "minecraft:deep_cold_ocean": "2025-06-10 02:47:22 +0000",
       "minecraft:frozen_ocean": "2025-06-10 02:46:37 +0000",
+      "minecraft:desert": "2025-06-11 03:09:35 +0000",
       "minecraft:windswept_forest": "2025-06-01 04:29:02 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-10 02:46:43 +0000",
       "minecraft:ocean": "2025-06-02 01:16:21 +0000",
       "minecraft:jungle": "2025-06-07 03:31:59 +0000",
       "minecraft:windswept_savanna": "2025-06-07 03:27:12 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-11 03:27:26 +0000",
+      "minecraft:frozen_peaks": "2025-06-11 02:46:02 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-02 04:02:45 +0000",
+      "minecraft:deep_dark": "2025-06-11 01:57:55 +0000",
       "minecraft:windswept_gravelly_hills": "2025-05-31 03:20:35 +0000",
+      "minecraft:savanna": "2025-06-11 03:06:15 +0000",
       "minecraft:plains": "2025-05-30 02:49:01 +0000"
     },
     "done": false
@@ -1224,8 +1236,10 @@
       "minecraft:blaze": "2025-05-31 01:40:06 +0000",
       "minecraft:pillager": "2025-06-02 04:20:01 +0000",
       "minecraft:skeleton": "2025-05-30 03:08:41 +0000",
+      "minecraft:elder_guardian": "2025-06-11 02:18:29 +0000",
       "minecraft:ghast": "2025-06-01 22:53:35 +0000",
       "minecraft:hoglin": "2025-06-01 23:16:39 +0000",
+      "minecraft:guardian": "2025-06-11 02:20:05 +0000",
       "minecraft:vindicator": "2025-06-02 04:19:54 +0000",
       "minecraft:magma_cube": "2025-05-31 01:34:56 +0000",
       "minecraft:spider": "2025-05-31 03:22:05 +0000",
@@ -5463,6 +5477,7 @@
     "criteria": {
       "swamp_village": "2025-06-07 02:40:32 +0000",
       "pillager_outpost": "2025-06-10 02:38:21 +0000",
+      "illager_manor": "2025-06-11 02:56:59 +0000",
       "illager_camp": "2025-06-02 04:20:07 +0000"
     },
     "done": false
@@ -6001,6 +6016,258 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-06-10 03:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-06-11 01:57:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-06-11 01:57:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2025-06-11 01:57:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-06-11 02:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-06-11 02:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-06-11 02:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-11 02:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-11 02:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-11 02:19:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-06-11 02:19:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow": {
+    "criteria": {
+      "has_milk_bucket": "2025-06-11 02:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-06-11 02:29:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-06-11 02:29:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-06-11 02:29:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-06-11 02:29:07 +0000"
+    },
+    "done": true
+  },
+  "master_cutter:recipes/wood/birch": {
+    "criteria": {
+      "requirement": "2025-06-11 02:30:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sponge": {
+    "criteria": {
+      "has_sponge": "2025-06-11 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/granite_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-11 02:35:49 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/andesite_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-11 02:35:49 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/quartz_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-11 02:35:49 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blackstone_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-11 02:35:49 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/diorite_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-11 02:35:49 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sandy_jadestone_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-11 02:35:49 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-11 02:35:49 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/virid_jadestone_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-11 02:35:49 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphuric_rock_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-11 02:35:49 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flavolite_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-11 02:35:49 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/azure_jadestone_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-11 02:35:49 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/violecite_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-11 02:35:49 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aurora_block": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-11 02:35:49 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/umbralith_lantern": {
+    "criteria": {
+      "has_crystal_shards": "2025-06-11 02:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-06-11 02:46:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-06-11 02:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-06-11 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-06-11 02:48:03 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_manor": {
+    "criteria": {
+      "nova_structures:illager_manor": "2025-06-11 02:56:59 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_illager_manor": "2025-06-11 02:57:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-06-11 02:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-11 02:57:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-11 02:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-11 02:59:51 +0000"
+    },
+    "done": true
+  },
+  "master_cutter:recipes/wood/dark_oak": {
+    "criteria": {
+      "requirement": "2025-06-11 02:59:51 +0000"
     },
     "done": true
   },
