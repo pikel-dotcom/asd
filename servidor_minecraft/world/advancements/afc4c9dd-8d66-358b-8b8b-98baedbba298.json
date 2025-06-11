@@ -41,6 +41,7 @@
       "minecraft:forest": "2025-05-29 01:16:53 +0000",
       "minecraft:lush_caves": "2025-06-03 19:55:11 +0000",
       "minecraft:deep_cold_ocean": "2025-06-03 19:39:58 +0000",
+      "minecraft:frozen_ocean": "2025-06-11 23:13:17 +0000",
       "minecraft:desert": "2025-06-03 20:35:08 +0000",
       "minecraft:windswept_forest": "2025-06-01 03:36:24 +0000",
       "minecraft:ocean": "2025-06-02 01:16:19 +0000",
@@ -7516,6 +7517,18 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-06-11 03:58:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-11 23:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-06-11 23:06:50 +0000"
     },
     "done": true
   },
