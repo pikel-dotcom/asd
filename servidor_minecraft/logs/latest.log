@@ -3052,3 +3052,5 @@ BCLib - The End  BiomeSource (449ecb30)
 [22:59:36] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
 [22:59:49] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
 [22:59:51] [Server thread/INFO]: [DinokoMC: Set own game mode to Spectator Mode]
+[22:59:57] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[23:00:01] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
