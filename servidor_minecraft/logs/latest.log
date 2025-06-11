@@ -3017,3 +3017,38 @@ BCLib - The End  BiomeSource (449ecb30)
 [22:31:30] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to 67.500000, 64.500000, 172.500000]
 [22:36:55] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
 [22:37:42] [Server thread/INFO]: [Not Secure] <DinokoMC> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[22:39:24] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to 67.500000, 64.500000, 172.500000]
+[22:41:43] [Server thread/WARN]: DinokoMC moved too quickly! -8.493378458832819,3.61293439285744,-15.633087179208175
+[22:47:23] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to 1887.500000, 73.500000, 4193.500000]
+[22:48:13] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 54.500000, 64.500000, 160.500000]
+[22:48:32] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/329, l='ServerLevel[world]', x=102.33, y=63.00, z=148.99] at TeleportTarget{pitch=49.615948, position=(-1.5, 75.0, 22.993963027004384), velocity=(0.0, -0.0784000015258789, 0.0), yaw=171.17474}
+[22:48:37] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -64.500000, 128.500000, -763.500000]
+[22:51:08] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/329, l='ServerLevel[world]', x=-63.15, y=229.00, z=-781.58] at TeleportTarget{pitch=47.027195, position=(-520.0462727319989, 92.0, -6255.5), velocity=(0.0, -0.0784000015258789, -0.0), yaw=186.29462}
+[22:55:03] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[22:55:49] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/589, l='ServerLevel[world]', x=-64.73, y=129.00, z=-800.80] at TeleportTarget{pitch=31.164122, position=(-509.72867960340585, -41.0, -6388.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=110.07929}
+[22:55:50] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/329, l='ServerLevel[world]', x=-65.70, y=129.00, z=-800.26] at TeleportTarget{pitch=30.459368, position=(-510.69999998807907, -41.0, -6388.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-108.19989}
+[22:56:07] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -509.500000, 63.500000, -6388.500000]
+[22:56:08] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[22:57:49] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to 67.500000, 64.500000, 172.500000]
+[22:59:15] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 54.500000, 64.500000, 160.500000]
+[22:59:18] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[22:59:26] [Server thread/INFO]: DinokoMC lost connection: Disconnected
+[22:59:26] [Server thread/INFO]: DinokoMC left the game
+[22:59:34] [Server thread/INFO]: DinokoMC[/127.60.196.101:36485] logged in with entity id 36351 at (52.80194940293097, 64.0, 148.8896674470215)
+[22:59:34] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[22:59:34] [Server thread/INFO]: Loading config from file...
+[22:59:34] [Server thread/INFO]: DinokoMC joined the game
+[22:59:34] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[22:59:36] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[22:59:36] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[22:59:36] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[22:59:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[22:59:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[22:59:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[22:59:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[22:59:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[22:59:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[22:59:36] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[22:59:36] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
+[22:59:49] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[22:59:51] [Server thread/INFO]: [DinokoMC: Set own game mode to Spectator Mode]
