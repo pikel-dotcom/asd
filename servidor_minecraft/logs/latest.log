@@ -115,3 +115,7 @@
 [00:50:58] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/329, l='ServerLevel[world]', x=-65.36, y=129.00, z=-800.29] at TeleportTarget{pitch=44.490547, position=(-510.3567093832873, -41.0, -6388.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=86.19336}
 [00:52:06] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 54.500000, 64.500000, 160.500000]
 [00:52:19] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
+[00:52:38] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -509.500000, 63.500000, -6388.500000]
+[00:56:38] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 54.500000, 64.500000, 160.500000]
+[00:56:44] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/329, l='ServerLevel[world]', x=102.03, y=64.00, z=148.85] at TeleportTarget{pitch=29.598942, position=(-1.5, 76.0, 22.852725672470285), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-93.96257}
+[00:56:51] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -64.500000, 128.500000, -763.500000]
