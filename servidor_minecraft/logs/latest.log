@@ -119,3 +119,24 @@
 [00:56:38] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 54.500000, 64.500000, 160.500000]
 [00:56:44] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/329, l='ServerLevel[world]', x=102.03, y=64.00, z=148.85] at TeleportTarget{pitch=29.598942, position=(-1.5, 76.0, 22.852725672470285), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-93.96257}
 [00:56:51] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -64.500000, 128.500000, -763.500000]
+[01:10:53] [Server thread/WARN]: ziKoc moved too quickly! 0.0026731560927899523,-11.798174230684282,-0.2367257713545996
+[01:14:06] [Server thread/INFO]: ziKoc lost connection: Disconnected
+[01:14:06] [Server thread/INFO]: ziKoc left the game
+[01:14:22] [Server thread/INFO]: ziKoc[/127.59.215.201:34231] logged in with entity id 178215 at (-47.30000001192093, -59.0, 39.300089906186514)
+[01:14:22] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[01:14:22] [Server thread/INFO]: Loading config from file...
+[01:14:22] [Server thread/INFO]: ziKoc joined the game
+[01:14:22] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[01:14:23] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:14:23] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:14:23] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:14:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:14:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:14:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:14:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:14:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:14:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:14:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:14:23] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:16:50] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/329, l='ServerLevel[world]', x=-65.23, y=129.00, z=-800.28] at TeleportTarget{pitch=75.16043, position=(-510.22818262855, -41.0, -6388.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=91.55783}
+[01:30:36] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/329, l='ServerLevel[world]', x=-509.71, y=-41.00, z=-6388.70] at TeleportTarget{pitch=52.389458, position=(-64.70767142729039, 129.0, -800.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=31.747559}
