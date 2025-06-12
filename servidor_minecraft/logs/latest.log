@@ -36,3 +36,20 @@
 [00:19:31] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/329, l='ServerLevel[world]', x=-65.31, y=129.00, z=-800.61] at TeleportTarget{pitch=37.19007, position=(-510.31159530660574, -41.0, -6388.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=60.63052}
 [00:20:14] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/60283, l='ServerLevel[world]', x=-509.44, y=-38.60, z=-6387.84] at TeleportTarget{pitch=-89.757225, position=(-64.43740878430538, 131.39999997615814, -800.5), velocity=(-0.0063200351243144605, 0.0, 1.968148782746991E-4), yaw=62.176357}
 [00:20:26] [Server thread/INFO]: [ziKoc: Teleported ziKoc to 67.500000, 64.500000, 172.500000]
+[00:24:32] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/329, l='ServerLevel[world]', x=-509.93, y=-41.00, z=-6389.24] at TeleportTarget{pitch=52.20438, position=(-64.92498779296875, 129.0, -800.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-137.13501}
+[00:24:36] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/329, l='ServerLevel[world]', x=-509.67, y=-41.00, z=-6388.91] at TeleportTarget{pitch=54.275368, position=(-64.66984058260175, 129.0, -800.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=18.355835}
+[00:24:43] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/329, l='ServerLevel[world]', x=-64.74, y=129.00, z=-800.69] at TeleportTarget{pitch=13.891319, position=(-509.74465182625886, -41.0, -6388.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-3.3894}
+[00:24:56] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/329, l='ServerLevel[world]', x=-509.59, y=-41.00, z=-6388.81] at TeleportTarget{pitch=5.607435, position=(-64.5910593824222, 129.0, -800.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-138.5205}
+[00:25:01] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/329, l='ServerLevel[world]', x=-509.31, y=-41.00, z=-6389.07] at TeleportTarget{pitch=36.154343, position=(-64.31189788632406, 129.0, -800.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=176.9534}
+[00:26:12] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 54.500000, 64.500000, 160.500000]
+[00:26:48] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/329, l='ServerLevel[world]', x=102.57, y=63.00, z=149.70] at TeleportTarget{pitch=52.20463, position=(-1.5, 75.0, 23.699996948242188), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-25.243652}
+[00:27:59] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1.500000, 75.500000, 23.500000]
+[00:28:00] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/329, l='ServerLevel[world]', x=-1.50, y=75.00, z=23.50] at TeleportTarget{pitch=25.79964, position=(102.5, 63.0, 149.50000077486038), velocity=(0.0, -0.0784000015258789, 0.0), yaw=172.70297}
+[00:28:20] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -509.500000, 63.500000, -6388.500000]
+[00:29:01] [Server thread/INFO]: [Not Secure] <ziKoc> zzzzzzzzzzzzzzz
+[00:30:46] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -509.500000, 63.500000, -6388.500000]
+[00:31:25] [Server thread/INFO]: [Pikel_03: Kicked ziKoc: Kicked by an operator]
+[00:31:25] [Server thread/INFO]: ziKoc lost connection: Kicked by an operator
+[00:31:25] [Server thread/INFO]: ziKoc left the game
+[00:31:50] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 54.500000, 64.500000, 160.500000]
+[00:31:58] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/329, l='ServerLevel[world]', x=102.74, y=64.00, z=149.10] at TeleportTarget{pitch=31.399603, position=(-1.5, 76.0, 23.09686361429692), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-149.78636}
