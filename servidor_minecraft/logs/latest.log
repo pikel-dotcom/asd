@@ -141,3 +141,8 @@
 [01:16:50] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/329, l='ServerLevel[world]', x=-65.23, y=129.00, z=-800.28] at TeleportTarget{pitch=75.16043, position=(-510.22818262855, -41.0, -6388.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=91.55783}
 [01:30:36] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/329, l='ServerLevel[world]', x=-509.71, y=-41.00, z=-6388.70] at TeleportTarget{pitch=52.389458, position=(-64.70767142729039, 129.0, -800.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=31.747559}
 [01:36:21] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
+[01:50:43] [Server thread/INFO]: ziKoc has reached the goal [Airshow]
+[01:52:28] [Server thread/INFO]: ziKoc lost connection: Disconnected
+[01:52:28] [Server thread/INFO]: ziKoc left the game
+[01:52:31] [Server thread/INFO]: Pikel_03 lost connection: Disconnected
+[01:52:31] [Server thread/INFO]: Pikel_03 left the game

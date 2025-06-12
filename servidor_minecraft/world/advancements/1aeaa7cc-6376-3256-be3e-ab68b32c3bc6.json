@@ -5205,10 +5205,11 @@
   },
   "betterend:all_elytras": {
     "criteria": {
+      "crystalite": "2025-06-12 01:50:43 +0000",
       "armored": "2025-06-04 01:47:53 +0000",
       "vanilla": "2025-06-02 02:30:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:end/elytra": {
     "criteria": {
@@ -6545,6 +6546,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
     "criteria": {
       "has_deepslate_copper_ore": "2025-06-12 00:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-12 01:50:40 +0000"
     },
     "done": true
   },
