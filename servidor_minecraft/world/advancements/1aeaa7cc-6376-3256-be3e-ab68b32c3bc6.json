@@ -6555,5 +6555,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-06-13 00:57:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

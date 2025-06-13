@@ -274,3 +274,17 @@
 [00:50:53] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -64.500000, 128.500000, -763.500000]
 [00:52:19] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
 [00:54:41] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/49945, l='ServerLevel[world]', x=102.41, y=63.00, z=149.70] at TeleportTarget{pitch=17.488415, position=(-1.5, 75.0, 23.699996948242188), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-175.24986}
+[00:58:18] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/314, l='ServerLevel[world]', x=102.22, y=64.00, z=148.89] at TeleportTarget{pitch=22.88347, position=(-1.5, 76.0, 22.88596307776524), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-4.9379883}
+[00:58:22] [Server thread/INFO]: [Not Secure] <ziKoc> xaero-waypoint:Granja oro:G:-510:63:-6388:9:false:0:Internal-overworld-waypoints
+[00:58:36] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -63.500000, 256.500000, -781.500000]
+[01:00:01] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[01:02:07] [Server thread/INFO]: [Pikel_03: Made DinokoMC no longer a server operator]
+[01:02:14] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[01:02:18] [Server thread/INFO]: [Pikel_03: Applied effect Slowness to DinokoMC]
+[01:02:44] [Server thread/INFO]: [Pikel_03: Applied effect Nausea to DinokoMC]
+[01:03:25] [Server thread/WARN]: ziKoc moved wrongly!
+[01:03:28] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/14683, l='ServerLevel[world]', x=102.50, y=63.00, z=149.21] at TeleportTarget{pitch=35.872787, position=(-1.5, 75.0, 23.211843598163483), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-130.14954}
+[01:03:34] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 184.500000, 57.500000, 108.500000]
+[01:03:37] [Server thread/INFO]: [ziKoc: Teleported Pikel_03 to ziKoc]
+[01:03:47] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/14683, l='ServerLevel[world]', x=102.10, y=64.00, z=149.67] at TeleportTarget{pitch=23.045431, position=(-1.5, 76.0, 23.665662547937757), velocity=(0.0, -0.0784000015258789, 0.0), yaw=149.58403}
+[01:03:55] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 184.500000, 57.500000, 108.500000]
