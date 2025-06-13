@@ -288,3 +288,17 @@
 [01:03:37] [Server thread/INFO]: [ziKoc: Teleported Pikel_03 to ziKoc]
 [01:03:47] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/14683, l='ServerLevel[world]', x=102.10, y=64.00, z=149.67] at TeleportTarget{pitch=23.045431, position=(-1.5, 76.0, 23.665662547937757), velocity=(0.0, -0.0784000015258789, 0.0), yaw=149.58403}
 [01:03:55] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 184.500000, 57.500000, 108.500000]
+[01:06:50] [Server thread/INFO]: [ziKoc: Teleported ziKoc to -509.500000, 63.500000, -6387.500000]
+[01:06:56] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/49945, l='ServerLevel[world]', x=-509.64, y=-41.00, z=-6388.59] at TeleportTarget{pitch=21.518587, position=(-64.63676963198395, 129.0, -800.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=88.92916}
+[01:07:18] [Server thread/INFO]: ziKoc fell from a high place
+[01:07:18] [Server thread/INFO]: Created new backpack backup file for ziKoc with unique ID travelersbackpack.dragon_13.06.2025-01.07.18.dat
+[01:07:20] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[01:07:38] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/49945, l='ServerLevel[world]', x=102.30, y=63.00, z=149.70] at TeleportTarget{pitch=2.9943419, position=(-1.5, 75.0, 23.699996948242188), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-116.55197}
+[01:07:44] [Server thread/INFO]: [ziKoc: Teleported ziKoc to -59.500000, 128.500000, -795.500000]
+[01:08:03] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/49945, l='ServerLevel[world]', x=-64.64, y=129.00, z=-800.83] at TeleportTarget{pitch=29.37696, position=(-509.6446988606811, -41.0, -6388.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=122.83297}
+[01:08:15] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1.500000, 75.500000, 23.500000]
+[01:08:19] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/14683, l='ServerLevel[world]', x=-1.74, y=75.00, z=23.16] at TeleportTarget{pitch=63.077206, position=(102.5, 63.0, 149.15937604981792), velocity=(0.0, -0.0784000015258789, 0.0), yaw=178.82257}
+[01:08:45] [Server thread/INFO]: [Pikel_03: Applied effect Slow Falling to Pikel_03]
+[01:09:03] [Server thread/INFO]: [Pikel_03: Removed every effect from Pikel_03]
+[01:16:23] [Server thread/INFO]: [ziKoc: Teleported Pikel_03 to ziKoc]
+[01:16:44] [Server thread/INFO]: [ziKoc: Teleported Pikel_03 to ziKoc]
