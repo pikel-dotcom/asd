@@ -406,3 +406,21 @@
 [01:46:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [01:46:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [01:46:32] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:50:14] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/14683, l='ServerLevel[world]', x=-1.61, y=75.00, z=23.03] at TeleportTarget{pitch=23.386024, position=(102.5, 63.0, 149.03253262865212), velocity=(0.0, -0.0784000015258789, 0.0), yaw=119.49487}
+[01:53:47] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[01:57:45] [Server thread/INFO]: DinokoMC[/127.60.196.101:57177] logged in with entity id 152351 at (-2.951263252630333, 71.0, 107.2379500912608)
+[01:57:45] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[01:57:45] [Server thread/INFO]: Loading config from file...
+[01:57:45] [Server thread/INFO]: DinokoMC joined the game
+[01:57:45] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[01:57:51] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:57:51] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:57:51] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:57:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:57:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:57:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:57:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:57:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:57:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:57:51] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:57:51] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
