@@ -766,3 +766,45 @@ Reason: Banned by an operator.
 [03:29:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [03:29:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [03:29:14] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:31:55] [Server thread/WARN]: DinokoMC moved too quickly! -16.91076826758541,-3.393451794176684,-4.526354014404134
+[03:33:06] [Server thread/WARN]: DinokoMC moved wrongly!
+[03:37:30] [Server thread/INFO]: Pikel_03 lost connection: Timed out
+[03:37:30] [Server thread/INFO]: Pikel_03 left the game
+[03:38:06] [Server thread/INFO]: Pikel_03[/127.189.11.85:44601] logged in with entity id 196121 at (23.115550467574216, 63.0, 353.3656709988447)
+[03:38:06] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[03:38:06] [Server thread/INFO]: Loading config from file...
+[03:38:06] [Server thread/INFO]: Pikel_03 joined the game
+[03:38:06] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[03:38:06] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:38:06] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:38:06] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:38:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:38:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:38:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:38:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:38:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:38:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:38:06] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:38:06] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:41:06] [Server thread/INFO]: Pikel_03 lost connection: Timed out
+[03:41:06] [Server thread/INFO]: Pikel_03 left the game
+[03:41:16] [Server thread/INFO]: Pikel_03[/127.189.11.85:37643] logged in with entity id 197750 at (24.437476512659632, 63.0, 348.7784333988013)
+[03:41:16] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[03:41:16] [Server thread/INFO]: Loading config from file...
+[03:41:16] [Server thread/INFO]: Pikel_03 joined the game
+[03:41:16] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[03:41:17] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:41:17] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:41:17] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:41:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:41:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:41:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:41:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:41:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:41:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:41:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:41:17] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:43:40] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to 2964.500000, 62.500000, 523.500000]
+[03:44:08] [Server thread/INFO]: [Pikel_03: Teleported DinokoMC to Pikel_03]
+[03:44:31] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to 2964.500000, 62.500000, 523.500000]
+[03:45:12] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to 67.500000, 64.500000, 172.500000]
