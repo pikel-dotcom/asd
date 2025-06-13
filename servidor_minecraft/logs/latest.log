@@ -516,3 +516,44 @@
 [02:27:36] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
 [02:28:27] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
 [02:28:39] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
+[02:29:50] [Server thread/INFO]: DinokoMC lost connection: Timed out
+[02:29:50] [Server thread/INFO]: DinokoMC left the game
+[02:30:30] [Server thread/INFO]: ziKoc fell from a high place
+[02:30:30] [Server thread/INFO]: Created new backpack backup file for ziKoc with unique ID travelersbackpack.dragon_13.06.2025-02.30.30.dat
+[02:30:32] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[02:30:34] [Server thread/INFO]: [ziKoc: Teleported ziKoc to -36.500000, -32.500000, 44.500000]
+[02:31:42] [Server thread/INFO]: DinokoMC[/127.60.196.101:52741] logged in with entity id 168312 at (14.159095273969127, 72.1212968405392, 116.54247921824818)
+[02:31:42] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[02:31:42] [Server thread/INFO]: Loading config from file...
+[02:31:42] [Server thread/INFO]: DinokoMC joined the game
+[02:31:42] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[02:31:43] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:31:43] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:31:43] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:31:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:31:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:31:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:31:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:31:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:31:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:31:43] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:31:43] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:32:27] [Server thread/INFO]: DinokoMC lost connection: Disconnected
+[02:32:27] [Server thread/INFO]: DinokoMC left the game
+[02:32:41] [Server thread/INFO]: DinokoMC[/127.60.196.101:55005] logged in with entity id 168523 at (-1.4091119103066596, 63.0, 111.13006044835022)
+[02:32:41] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[02:32:41] [Server thread/INFO]: Loading config from file...
+[02:32:41] [Server thread/INFO]: DinokoMC joined the game
+[02:32:41] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[02:32:42] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:32:42] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:32:42] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:32:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:32:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:32:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:32:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:32:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:32:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:32:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:32:42] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:32:56] [Server thread/INFO]: [ziKoc: Teleported DinokoMC to ziKoc]
