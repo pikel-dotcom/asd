@@ -340,3 +340,25 @@
 [01:25:47] [Server thread/INFO]: [Not Secure] <Pikel_03> paranguricutirimicuaro
 [01:26:34] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/116515, l='ServerLevel[world]', x=-64.40, y=129.00, z=-800.64] at TeleportTarget{pitch=15.001583, position=(-509.4028095044326, -41.0, -6388.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=49.92401}
 [01:26:58] [Server thread/INFO]: [Pikel_03: Made DinokoMC a server operator]
+[01:27:52] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to 67.500000, 64.500000, 172.500000]
+[01:28:21] [Server thread/INFO]: [Not Secure] <ziKoc> 3 años mentales
+[01:29:56] [Server thread/INFO]: [Not Secure] <DinokoMC> dapo
+[01:30:44] [Server thread/INFO]: ziKoc lost connection: Disconnected
+[01:30:44] [Server thread/INFO]: ziKoc left the game
+[01:31:49] [Server thread/INFO]: [Not Secure] <DinokoMC> 1.20.1
+[01:35:38] [Server thread/INFO]: ziKoc[/127.59.215.201:51825] logged in with entity id 122417 at (-38.2392596071552, -48.0, 34.59691496097344)
+[01:35:38] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[01:35:38] [Server thread/INFO]: Loading config from file...
+[01:35:38] [Server thread/INFO]: ziKoc joined the game
+[01:35:38] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[01:35:40] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:35:40] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:35:40] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:35:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:35:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:35:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:35:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:35:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:35:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:35:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:35:40] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
