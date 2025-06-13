@@ -8,3 +8,47 @@
 [00:02:16] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
 [00:03:31] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/757, l='ServerLevel[world]', x=-64.30, y=129.00, z=-800.46] at TeleportTarget{pitch=11.820584, position=(-509.3000030517578, -41.0, -6388.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=21.863953}
 [00:03:31] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/314, l='ServerLevel[world]', x=-64.97, y=129.00, z=-801.04] at TeleportTarget{pitch=26.429592, position=(-509.96506348845037, -41.0, -6388.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=20.650177}
+[00:04:47] [Server thread/INFO]: ziKoc[/127.59.215.201:42457] logged in with entity id 6955 at (-41.25700061867881, -56.27495789779284, 32.937934294156065)
+[00:04:47] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[00:04:47] [Server thread/INFO]: Loading config from file...
+[00:04:47] [Server thread/INFO]: ziKoc joined the game
+[00:04:47] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[00:04:49] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:04:49] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:04:49] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:04:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:04:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:04:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:04:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:04:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:04:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:04:49] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:04:49] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:04:54] [Server thread/WARN]: ziKoc was kicked for floating too long!
+[00:04:54] [Server thread/INFO]: ziKoc lost connection: Flying is not enabled on this server
+[00:04:54] [Server thread/INFO]: ziKoc left the game
+[00:04:55] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to 67.500000, 64.500000, 172.500000]
+[00:04:58] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 54.500000, 64.500000, 160.500000]
+[00:06:01] [Server thread/INFO]: ziKoc[/127.59.215.201:42797] logged in with entity id 8051 at (-41.25700061867881, -56.27495789779284, 32.937934294156065)
+[00:06:01] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[00:06:01] [Server thread/INFO]: Loading config from file...
+[00:06:01] [Server thread/INFO]: ziKoc joined the game
+[00:06:01] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[00:06:01] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:06:01] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:06:01] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:06:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:06:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:06:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:06:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:06:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:06:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:06:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:06:01] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:07:20] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[00:09:18] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[00:09:21] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[00:09:56] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[00:10:34] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to ziKoc]
+[00:12:49] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[00:14:30] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
