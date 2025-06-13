@@ -579,3 +579,80 @@
 [02:54:40] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
 [02:54:43] [Server thread/INFO]: [Not Secure] <ziKoc> diga algo al menos
 [02:56:22] [Server thread/WARN]: DinokoMC moved wrongly!
+[03:05:38] [Server thread/WARN]: ziKoc moved wrongly!
+[03:05:55] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -509.500000, 63.500000, -6388.500000]
+[03:05:55] [Server thread/WARN]: ziKoc moved wrongly!
+[03:06:17] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 54.500000, 64.500000, 160.500000]
+[03:09:08] [Server thread/INFO]: [ziKoc: Teleported Pikel_03 to ziKoc]
+[03:09:26] [Server thread/INFO]: ziKoc lost connection: Disconnected
+[03:09:26] [Server thread/INFO]: ziKoc left the game
+[03:09:32] [Server thread/INFO]: ziKoc[/127.59.215.201:34255] logged in with entity id 183838 at (58.10058351700531, 78.60040041576022, 286.7877584279957)
+[03:09:32] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[03:09:32] [Server thread/INFO]: Loading config from file...
+[03:09:32] [Server thread/INFO]: ziKoc joined the game
+[03:09:32] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[03:09:33] [Server thread/INFO]: [Pikel_03: Banned IP 127.59.215.201: Banned by an operator.]
+[03:09:33] [Server thread/INFO]: [Pikel_03: This ban affects 1 player(s): ziKoc]
+[03:09:33] [Server thread/INFO]: ziKoc lost connection: You have been IP banned from this server
+[03:09:33] [Server thread/INFO]: ziKoc left the game
+[03:09:38] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@6bee4d35[id=1aeaa7cc-6376-3256-be3e-ab68b32c3bc6,name=ziKoc,properties={},legacy=false] (/127.59.215.201:60793): Your IP address is banned from this server.
+Reason: Banned by an operator.
+[03:09:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@6bee4d35[id=1aeaa7cc-6376-3256-be3e-ab68b32c3bc6,name=ziKoc,properties={},legacy=false] (/127.59.215.201:60793) lost connection: Your IP address is banned from this server.
+Reason: Banned by an operator.
+[03:09:38] [Server thread/WARN]: handleDisconnection() called twice
+[03:09:41] [Server thread/INFO]: [Pikel_03: Unbanned IP 127.59.215.201]
+[03:09:46] [Server thread/INFO]: ziKoc[/127.59.215.201:47573] logged in with entity id 183916 at (58.10058351700531, 78.60040041576022, 286.7877584279957)
+[03:09:46] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[03:09:46] [Server thread/INFO]: Loading config from file...
+[03:09:46] [Server thread/INFO]: ziKoc joined the game
+[03:09:46] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[03:09:47] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:09:47] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:09:47] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:09:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:09:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:09:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:09:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:09:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:09:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:09:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:09:47] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:15:15] [Server thread/INFO]: Pikel_03 lost connection: Timed out
+[03:15:15] [Server thread/INFO]: Pikel_03 left the game
+[03:15:27] [Server thread/INFO]: Pikel_03[/127.189.11.85:59501] logged in with entity id 185968 at (21.982260560432973, 63.0, 356.4534214785362)
+[03:15:27] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[03:15:27] [Server thread/INFO]: Loading config from file...
+[03:15:27] [Server thread/INFO]: Pikel_03 joined the game
+[03:15:27] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[03:15:30] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:15:30] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:15:30] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:15:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:15:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:15:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:15:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:15:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:15:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:15:30] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:15:30] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:16:20] [Server thread/WARN]: ziKoc moved wrongly!
+[03:16:25] [Server thread/INFO]: ziKoc lost connection: Disconnected
+[03:16:25] [Server thread/INFO]: ziKoc left the game
+[03:17:42] [Server thread/INFO]: Pikel_03 lost connection: Timed out
+[03:17:42] [Server thread/INFO]: Pikel_03 left the game
+[03:17:52] [Server thread/INFO]: Pikel_03[/127.189.11.85:45389] logged in with entity id 187068 at (14.611215653086452, 63.0, 352.96517385620484)
+[03:17:52] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[03:17:52] [Server thread/INFO]: Loading config from file...
+[03:17:52] [Server thread/INFO]: Pikel_03 joined the game
+[03:17:52] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[03:17:52] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:17:52] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:17:52] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:17:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:17:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:17:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:17:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:17:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:17:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:17:52] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:17:52] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
