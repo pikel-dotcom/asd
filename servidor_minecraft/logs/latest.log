@@ -557,3 +557,25 @@
 [02:32:42] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [02:32:42] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
 [02:32:56] [Server thread/INFO]: [ziKoc: Teleported DinokoMC to ziKoc]
+[02:49:52] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[02:54:13] [Server thread/INFO]: DinokoMC lost connection: Timed out
+[02:54:13] [Server thread/INFO]: DinokoMC left the game
+[02:54:28] [Server thread/WARN]: ziKoc moved wrongly!
+[02:54:31] [Server thread/INFO]: DinokoMC[/127.60.196.101:50471] logged in with entity id 177106 at (-1.5473768770031031, 73.25220334025373, 118.88160450812744)
+[02:54:31] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[02:54:31] [Server thread/INFO]: Loading config from file...
+[02:54:31] [Server thread/INFO]: DinokoMC joined the game
+[02:54:31] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[02:54:40] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:54:40] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:54:40] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:54:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:54:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:54:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:54:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:54:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:54:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:54:40] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:54:40] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:54:43] [Server thread/INFO]: [Not Secure] <ziKoc> diga algo al menos
+[02:56:22] [Server thread/WARN]: DinokoMC moved wrongly!
