@@ -122,3 +122,30 @@
 [00:23:59] [Server thread/INFO]: [Pikel_03: Made ziKoc a server operator]
 [00:24:03] [Server thread/INFO]: [ziKoc: Teleported ziKoc to -509.500000, 63.500000, -6387.500000]
 [00:24:24] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/15201, l='ServerLevel[world]', x=-510.19, y=-41.00, z=-6388.30] at TeleportTarget{pitch=-69.114685, position=(-65.19203951719408, 129.0, -800.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=43.688904}
+[00:25:32] [Server thread/INFO]: [Pikel_03: Made ziKoc no longer a server operator]
+[00:25:57] [Server thread/INFO]: [Pikel_03: Teleported ziKoc to Pikel_03]
+[00:26:16] [Server thread/INFO]: [Not Secure] <ziKoc> Eres idiota?
+[00:26:22] [Server thread/INFO]: [Not Secure] <ziKoc> a
+[00:26:23] [Server thread/INFO]: [Not Secure] <ziKoc> XD
+[00:26:36] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[00:26:41] [Server thread/INFO]: [Not Secure] <ziKoc> me quito los permisos
+[00:26:42] [Server thread/INFO]: [Not Secure] <ziKoc> naaaaaaaaaaaaaaa
+[00:26:45] [Server thread/INFO]: [Not Secure] <DinokoMC> ahjhahaajajaj
+[00:26:50] [Server thread/INFO]: [Not Secure] <ziKoc> sacame gfo
+[00:26:54] [Server thread/INFO]: [Not Secure] <ziKoc> dejame arriba xd
+[00:26:54] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/314, l='ServerLevel[world]', x=-64.79, y=129.00, z=-800.95] at TeleportTarget{pitch=8.7569, position=(-509.7919142109815, -41.0, -6388.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=93.93268}
+[00:27:29] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to 67.500000, 64.500000, 172.500000]
+[00:27:38] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[00:27:44] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[00:27:46] [Server thread/INFO]: [Pikel_03: Made ziKoc a server operator]
+[00:28:05] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/14683, l='ServerLevel[world]', x=-64.54, y=129.00, z=-800.67] at TeleportTarget{pitch=22.949356, position=(-509.54240368189005, -41.0, -6388.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-34.97412}
+[00:28:46] [Server thread/INFO]: [Not Secure] <DinokoMC> ahjhahaajajaj
+[00:28:49] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[00:30:02] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/15201, l='ServerLevel[world]', x=-65.43, y=129.00, z=-800.53] at TeleportTarget{pitch=25.581068, position=(-510.42813600969384, -41.0, -6388.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-82.229675}
+[00:31:28] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to 67.500000, 64.500000, 172.500000]
+[00:31:36] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[00:32:05] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 54.500000, 64.500000, 160.500000]
+[00:32:11] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/14683, l='ServerLevel[world]', x=102.15, y=64.00, z=148.98] at TeleportTarget{pitch=45.72682, position=(-1.5, 76.0, 22.983119959662247), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-174.56432}
+[00:32:17] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -64.500000, 128.500000, -763.500000]
+[00:34:48] [Server thread/INFO]: [ziKoc: Teleported ziKoc to 1939.500000, 84.500000, -4999.500000]
+[00:35:18] [Server thread/INFO]: [ziKoc: Teleported ziKoc to 72.500000, 64.500000, 160.500000]
