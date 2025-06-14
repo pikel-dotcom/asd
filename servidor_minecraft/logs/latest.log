@@ -44,3 +44,11 @@
 [01:15:38] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
 [01:16:00] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/2533, l='ServerLevel[world]', x=102.54, y=63.00, z=148.88] at TeleportTarget{pitch=25.898182, position=(1.5, 118.0, 22.87910225689336), velocity=(0.0, -0.0784000015258789, 0.0), yaw=13.78949}
 [01:17:02] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[01:37:54] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/2533, l='ServerLevel[world]', x=1.95, y=118.32, z=22.94] at TeleportTarget{pitch=6.9619493, position=(102.5, 63.319085002303126, 148.9406057463468), velocity=(0.0, 0.33319999363422365, 0.0), yaw=113.47876}
+[01:37:55] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/2533, l='ServerLevel[world]', x=0.40, y=118.00, z=22.17] at TeleportTarget{pitch=6.9619493, position=(102.5, 63.0, 149.39841079249905), velocity=(0.0, -0.0784000015258789, -0.0), yaw=203.47876}
+[01:38:02] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 184.500000, 57.500000, 108.500000]
+[01:39:34] [Server thread/INFO]: [Pikel_03: The difficulty has been set to Hard]
+[01:41:11] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/2533, l='ServerLevel[world]', x=102.01, y=64.00, z=148.68] at TeleportTarget{pitch=10.609469, position=(1.5, 119.0, 22.68265042606049), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-147.11792}
+[01:41:22] [Server thread/INFO]: [Not Secure] <DinokoMC> -166 -93
+[01:41:22] [Server thread/INFO]: [Not Secure] <DinokoMC> -166 -93
+[01:41:23] [Server thread/INFO]: [Not Secure] <DinokoMC> -166 -93
