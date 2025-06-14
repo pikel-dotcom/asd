@@ -10,3 +10,22 @@
 [00:33:00] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -1305.500000, 16.500000, -743.500000]
 [00:33:55] [Server thread/INFO]: [Not Secure] <DinokoMC> mano
 [00:40:09] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[00:44:19] [Server thread/INFO]: [Pikel_03: Set own game mode to Spectator Mode]
+[00:44:26] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[00:44:33] [Server thread/INFO]: [Pikel_03: Set own game mode to Spectator Mode]
+[00:44:51] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[00:46:09] [Server thread/INFO]: [Pikel_03: Set own game mode to Spectator Mode]
+[00:47:16] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[00:47:50] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/2533, l='ServerLevel[world]', x=101.93, y=64.00, z=149.01] at TeleportTarget{pitch=15.051897, position=(-1.5, 76.0, 23.009930180110672), velocity=(0.0, -0.0784000015258789, 0.0), yaw=65.56763}
+[00:50:34] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[00:51:35] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/2533, l='ServerLevel[world]', x=102.24, y=64.00, z=149.14] at TeleportTarget{pitch=-2.964904, position=(-1.5, 76.0, 23.137092082205328), velocity=(0.0, -0.0784000015258789, 0.0), yaw=114.01614}
+[00:53:30] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/2533, l='ServerLevel[world]', x=-2.20, y=118.00, z=23.02] at TeleportTarget{pitch=13.957652, position=(102.5, 63.0, 149.0183294791992), velocity=(0.0, -0.0784000015258789, 0.0), yaw=104.60852}
+[00:53:40] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/2533, l='ServerLevel[world]', x=102.12, y=64.00, z=149.15] at TeleportTarget{pitch=16.024658, position=(-1.5, 119.0, 23.145890680022006), velocity=(0.0, -0.0784000015258789, 0.0), yaw=138.8746}
+[00:53:47] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/2533, l='ServerLevel[world]', x=-2.24, y=118.00, z=22.81] at TeleportTarget{pitch=23.076757, position=(102.5, 63.0, 148.80800661723632), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-83.99598}
+[00:54:38] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -1305.500000, 16.500000, -743.500000]
+[00:56:47] [Server thread/INFO]: [Not Secure] <DinokoMC> -166 -93
+[00:56:48] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[00:56:59] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -1305.500000, 16.500000, -743.500000]
+[00:57:19] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[00:57:27] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[00:57:48] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/2533, l='ServerLevel[world]', x=102.71, y=64.00, z=149.29] at TeleportTarget{pitch=28.04097, position=(-1.5, 119.0, 23.287462777627752), velocity=(0.0, -0.0784000015258789, 0.0), yaw=93.08345}
