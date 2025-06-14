@@ -223,3 +223,13 @@
 [02:51:22] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
 [02:51:39] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/165305, l='ServerLevel[world]', x=101.97, y=64.00, z=149.12] at TeleportTarget{pitch=26.044777, position=(1.5, 119.0, 23.11797502449204), velocity=(0.0, -0.0784000015258789, 0.0), yaw=95.57861}
 [02:51:53] [Server thread/INFO]: [Not Secure] <Pikel_03> -32 -153
+[02:57:04] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1.500000, 75.500000, 23.500000]
+[02:57:13] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[02:58:03] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[02:58:17] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[02:59:01] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/165305, l='ServerLevel[world]', x=-31.18, y=118.00, z=-151.89] at TeleportTarget{pitch=16.760345, position=(-260.1764466010239, 123.0, -1224.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-48.23907}
+[02:59:14] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/165305, l='ServerLevel[world]', x=-259.77, y=123.00, z=-1224.00] at TeleportTarget{pitch=34.390583, position=(-30.765088747261302, 118.0, -152.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=137.282}
+[03:00:53] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/353, l='ServerLevel[world]', x=-30.78, y=118.00, z=-152.57] at TeleportTarget{pitch=16.946407, position=(-259.77828210957597, 123.0, -1224.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=23.050903}
+[03:00:55] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/165305, l='ServerLevel[world]', x=-31.40, y=118.00, z=-152.70] at TeleportTarget{pitch=3.7504132, position=(-260.3990093557826, 123.0, -1224.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-14.094333}
+[03:07:51] [Server thread/INFO]: DinokoMC lost connection: Timed out
+[03:07:51] [Server thread/INFO]: DinokoMC left the game
