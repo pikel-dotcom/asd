@@ -14,6 +14,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-06-03 19:44:40 +0000",
+      "minecraft:mushroom_fields": "2025-06-14 02:11:03 +0000",
       "minecraft:taiga": "2025-05-31 00:40:13 +0000",
       "minecraft:deep_ocean": "2025-06-03 20:32:01 +0000",
       "minecraft:eroded_badlands": "2025-06-09 03:20:43 +0000",
@@ -2307,7 +2308,9 @@
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "swamp_village": "2025-06-07 02:40:33 +0000",
+      "tavern_dark_oak": "2025-06-14 02:26:09 +0000",
       "illager_manor": "2025-06-11 02:57:06 +0000",
+      "pillager_outpost": "2025-06-14 02:43:10 +0000",
       "illager_camp": "2025-05-31 00:38:31 +0000"
     },
     "done": false
@@ -7767,9 +7770,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-06-14 02:11:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-06-14 01:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-06-14 02:11:56 +0000"
     },
     "done": true
   },
@@ -7782,6 +7797,12 @@
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-06-14 01:18:33 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-06-14 02:43:10 +0000"
     },
     "done": true
   },

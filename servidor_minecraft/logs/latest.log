@@ -52,3 +52,174 @@
 [01:41:22] [Server thread/INFO]: [Not Secure] <DinokoMC> -166 -93
 [01:41:22] [Server thread/INFO]: [Not Secure] <DinokoMC> -166 -93
 [01:41:23] [Server thread/INFO]: [Not Secure] <DinokoMC> -166 -93
+[01:42:52] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[01:45:27] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/2533, l='ServerLevel[world]', x=-164.30, y=118.00, z=-92.17] at TeleportTarget{pitch=15.499496, position=(-1332.5, 16.0, -744.3000052230699), velocity=(0.0, -0.0784000015258789, -0.0), yaw=135.02661}
+[01:45:34] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/2533, l='ServerLevel[world]', x=-165.38, y=118.00, z=-92.60] at TeleportTarget{pitch=33.37292, position=(-1332.5, 16.0, -746.1503263325703), velocity=(0.0, -0.0784000015258789, -0.0), yaw=269.86816}
+[01:46:53] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/2533, l='ServerLevel[world]', x=-1332.07, y=16.00, z=-745.86] at TeleportTarget{pitch=15.134743, position=(-165.20743247819965, 118.0, -92.5), velocity=(0.0, -0.0784000015258789, -0.0), yaw=68.96655}
+[01:47:16] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/353, l='ServerLevel[world]', x=-164.96, y=118.00, z=-92.48] at TeleportTarget{pitch=13.236319, position=(-1332.5, 16.0, -745.4277779346672), velocity=(0.0, -0.0784000015258789, -0.0), yaw=163.04742}
+[01:47:45] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/353, l='ServerLevel[world]', x=-1332.13, y=16.00, z=-745.83] at TeleportTarget{pitch=18.048916, position=(-165.1943823672793, 118.0, -92.5), velocity=(0.0, -0.0784000015258789, -0.0), yaw=119.76318}
+[01:53:47] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/2533, l='ServerLevel[world]', x=0.22, y=118.00, z=20.93] at TeleportTarget{pitch=10.674771, position=(102.5, 63.0, 149.216315586248), velocity=(0.0, -0.0784000015258789, -0.0), yaw=189.6372}
+[01:54:01] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -509.500000, 63.500000, -6387.500000]
+[01:54:09] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/2533, l='ServerLevel[world]', x=-509.46, y=-41.00, z=-6389.12] at TeleportTarget{pitch=35.11393, position=(-64.46238174292347, 129.0, -800.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=115.59002}
+[01:54:18] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/2533, l='ServerLevel[world]', x=-64.99, y=129.00, z=-800.71] at TeleportTarget{pitch=32.732613, position=(-509.9894557592284, -41.0, -6388.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-37.04559}
+[01:54:35] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/2533, l='ServerLevel[world]', x=-510.58, y=-41.00, z=-6388.16] at TeleportTarget{pitch=42.33809, position=(-65.57840320944723, 129.0, -800.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-178.45238}
+[01:54:56] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[01:56:01] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/2533, l='ServerLevel[world]', x=-509.30, y=-41.00, z=-6388.30] at TeleportTarget{pitch=59.481544, position=(-64.30000001192093, 129.0, -800.5), velocity=(0.0, -0.0784000015258789, -0.014691275247632312), yaw=80.144104}
+[01:56:04] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/353, l='ServerLevel[world]', x=-510.35, y=-41.00, z=-6388.54] at TeleportTarget{pitch=27.707497, position=(-65.35494151413707, 129.0, -800.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-88.30527}
+[01:57:07] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/353, l='ServerLevel[world]', x=-62.90, y=140.85, z=-782.05] at TeleportTarget{pitch=29.423922, position=(-520.3209199320579, 92.69558500453067, -6255.5), velocity=(0.0, -0.5169479491049732, -0.0), yaw=211.88583}
+[01:57:49] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[01:58:14] [Server thread/INFO]: DinokoMC has completed the challenge [Tough as can be]
+[01:58:41] [Server thread/INFO]: DinokoMC fell from a high place
+[01:58:41] [Server thread/INFO]: Created new backpack backup file for DinokoMC with unique ID travelersbackpack.spider_14.06.2025-01.58.41.dat
+[01:58:44] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[01:58:52] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[01:59:36] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/353, l='ServerLevel[world]', x=-65.39, y=129.00, z=-800.44] at TeleportTarget{pitch=-1.7322757, position=(-510.39406702171556, -41.0, -6388.5), velocity=(0.0, -0.07544406518948656, 0.0), yaw=-7.0630493}
+[01:59:49] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/2533, l='ServerLevel[world]', x=-64.56, y=129.00, z=-799.98] at TeleportTarget{pitch=30.125164, position=(-509.56374213103925, -41.0, -6388.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=125.88736}
+[02:01:32] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to 67.500000, 64.500000, 172.500000]
+[02:01:32] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 54.500000, 64.500000, 160.500000]
+[02:02:19] [Server thread/WARN]: Pikel_03 moved too quickly! 18.7456848936082,-0.3839223693793059,2.5301738823434903
+[02:02:47] [Server thread/WARN]: Pikel_03 moved too quickly! 8.424682493696992,-3.7767699663066594,15.142868832511112
+[02:06:28] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[02:07:10] [Worker-Main-12/WARN]: Non-existent template pool reference: minecraft:minecraft_empty
+[02:07:10] [Worker-Main-12/WARN]: Non-existent template pool reference: minecraft:minecraft_empty
+[02:07:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3307ms or 66 ticks behind
+[02:07:10] [Server thread/WARN]: Pikel_03 moved too quickly! 7.703431221214487,-0.0625,6.503771905125063
+[02:08:03] [Server thread/WARN]: DinokoMC moved too quickly! 1.8608837095275703,15.548637008716128,9.122209364611422
+[02:10:16] [Server thread/WARN]: Pikel_03 moved wrongly!
+[02:10:18] [Server thread/WARN]: DinokoMC moved too quickly! 0.907888229090986,-1.172784677434862,17.50315417128968
+[02:10:57] [Server thread/INFO]: DinokoMC has completed the challenge [Adventuring Time]
+[02:11:02] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[02:13:35] [Server thread/WARN]: Pikel_03 moved too quickly! -17.33404468794606,-3.4936061748164775,-2.5034853496631513
+[02:15:20] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[02:15:28] [Server thread/INFO]: DinokoMC was blown up by Pikel_03
+[02:15:28] [Server thread/INFO]: Created new backpack backup file for DinokoMC with unique ID travelersbackpack.spider_14.06.2025-02.15.28.dat
+[02:15:36] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[02:15:38] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[02:17:23] [Server thread/INFO]: [DinokoMC: Set own game mode to Creative Mode]
+[02:24:59] [Worker-Main-1/WARN]: Skipping Entity with id 
+[02:24:59] [Worker-Main-1/WARN]: Skipping Entity with id 
+[02:26:18] [Worker-Main-3/WARN]: Skipping Entity with id 
+[02:26:18] [Worker-Main-3/WARN]: Skipping Entity with id 
+[02:27:35] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[02:30:24] [Server thread/INFO]: [DinokoMC: Set own game mode to Survival Mode]
+[02:30:26] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[02:32:46] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[02:33:35] [Server thread/INFO]: Villager class_1646['Nitwit'/130156, l='ServerLevel[world]', x=-3198.49, y=115.00, z=3041.41] died, message: 'Nitwit was shot by Pillager'
+[02:33:45] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[02:35:36] [Worker-Main-1/WARN]: Skipping Entity with id 
+[02:35:36] [Worker-Main-1/WARN]: Skipping Entity with id 
+[02:35:40] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[02:36:42] [Server thread/INFO]: [Pikel_03: Set own game mode to Spectator Mode]
+[02:36:47] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[02:36:56] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[02:38:09] [Server thread/INFO]: ziKoc[/127.59.215.201:52287] logged in with entity id 141338 at (100.39611068492354, 64.0, 189.91626063191535)
+[02:38:09] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[02:38:09] [Server thread/INFO]: Loading config from file...
+[02:38:09] [Server thread/INFO]: ziKoc joined the game
+[02:38:09] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[02:38:12] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:38:12] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:38:12] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:38:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:38:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:38:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:38:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:38:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:38:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:38:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:38:12] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:38:21] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[02:39:06] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[02:40:00] [Server thread/INFO]: [ziKoc: Teleported ziKoc to DinokoMC]
+[02:40:24] [Server thread/INFO]: ziKoc lost connection: Timed out
+[02:40:24] [Server thread/INFO]: ziKoc left the game
+[02:40:35] [Server thread/INFO]: ziKoc[/127.59.215.201:59609] logged in with entity id 148145 at (-4826.054799616695, 80.0, 547.8724897253686)
+[02:40:35] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[02:40:35] [Server thread/INFO]: Loading config from file...
+[02:40:35] [Server thread/INFO]: ziKoc joined the game
+[02:40:35] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[02:40:37] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:40:37] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:40:37] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:40:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:40:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:40:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:40:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:40:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:40:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:40:37] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:40:37] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:40:38] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[02:40:59] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
+[02:41:19] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -4743.500000, 106.500000, 886.500000]
+[02:41:20] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[02:41:47] [Server thread/INFO]: [ziKoc: Teleported ziKoc to -40.500000, 85.500000, 44.500000]
+[02:42:39] [Server thread/INFO]: ziKoc lost connection: Disconnected
+[02:42:39] [Server thread/INFO]: ziKoc left the game
+[02:42:47] [Server thread/INFO]: ziKoc[/127.59.215.201:39113] logged in with entity id 152959 at (-49.525563382936774, 67.875, 43.77785067625695)
+[02:42:47] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[02:42:47] [Server thread/INFO]: Loading config from file...
+[02:42:47] [Server thread/INFO]: ziKoc joined the game
+[02:42:47] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[02:42:47] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:42:47] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:42:47] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:42:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:42:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:42:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:42:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:42:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:42:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:42:47] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:42:47] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:43:01] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[02:43:10] [Server thread/INFO]: Pikel_03 has made the advancement [Intruder Alert]
+[02:43:10] [Server thread/INFO]: ziKoc lost connection: Disconnected
+[02:43:10] [Server thread/INFO]: ziKoc left the game
+[02:43:20] [Server thread/INFO]: ziKoc[/127.59.215.201:56695] logged in with entity id 154355 at (-49.525563382936774, 67.875, 43.77785067625695)
+[02:43:20] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[02:43:20] [Server thread/INFO]: Loading config from file...
+[02:43:20] [Server thread/INFO]: ziKoc joined the game
+[02:43:20] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[02:43:22] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:43:22] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:43:22] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:43:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:43:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:43:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:43:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:43:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:43:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:43:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:43:22] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:43:43] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 54.500000, 64.500000, 160.500000]
+[02:43:50] [Server thread/INFO]: ziKoc lost connection: Timed out
+[02:43:50] [Server thread/INFO]: ziKoc left the game
+[02:43:55] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to 67.500000, 64.500000, 172.500000]
+[02:45:48] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[02:46:29] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[02:49:04] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 54.500000, 64.500000, 160.500000]
+[02:49:11] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/353, l='ServerLevel[world]', x=102.12, y=64.00, z=149.31] at TeleportTarget{pitch=40.598873, position=(1.5, 119.0, 23.31091446708038), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-114.86047}
+[02:49:29] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 184.500000, 57.500000, 108.500000]
+[02:50:28] [Server thread/INFO]: [Not Secure] <DinokoMC> -32 -153
+[02:50:34] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to 67.500000, 64.500000, 172.500000]
+[02:50:53] [Server thread/INFO]: DinokoMC lost connection: Timed out
+[02:50:53] [Server thread/INFO]: DinokoMC left the game
+[02:51:20] [Server thread/INFO]: DinokoMC[/127.60.196.101:54525] logged in with entity id 165305 at (75.70417739248339, 64.41152889263805, 167.4890731407704)
+[02:51:20] [Server thread/INFO]: Syncing config to DinokoMC (f0c00d82-0d58-3b89-af0b-9c6838e550a1)
+[02:51:20] [Server thread/INFO]: Loading config from file...
+[02:51:20] [Server thread/INFO]: DinokoMC joined the game
+[02:51:20] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
+[02:51:22] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:51:22] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:51:22] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:51:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:51:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:51:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:51:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:51:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:51:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:51:22] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:51:22] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:51:39] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/165305, l='ServerLevel[world]', x=101.97, y=64.00, z=149.12] at TeleportTarget{pitch=26.044777, position=(1.5, 119.0, 23.11797502449204), velocity=(0.0, -0.0784000015258789, 0.0), yaw=95.57861}
+[02:51:53] [Server thread/INFO]: [Not Secure] <Pikel_03> -32 -153
