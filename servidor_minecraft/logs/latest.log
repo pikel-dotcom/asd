@@ -7,3 +7,6 @@
 [00:21:03] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
 [00:26:59] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/2533, l='ServerLevel[world]', x=102.70, y=63.00, z=148.30] at TeleportTarget{pitch=4.1590567, position=(-1.5, 75.0, 22.30000001192093), velocity=(0.0, -0.0784000015258789, 0.0), yaw=89.024536}
 [00:27:14] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
+[00:33:00] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to -1305.500000, 16.500000, -743.500000]
+[00:33:55] [Server thread/INFO]: [Not Secure] <DinokoMC> mano
+[00:40:09] [Server thread/INFO]: Async chunk loading for player DinokoMC completed
