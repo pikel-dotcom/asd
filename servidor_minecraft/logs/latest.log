@@ -29,3 +29,10 @@
 [00:57:19] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
 [00:57:27] [Server thread/INFO]: [DinokoMC: Teleported DinokoMC to Pikel_03]
 [00:57:48] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/2533, l='ServerLevel[world]', x=102.71, y=64.00, z=149.29] at TeleportTarget{pitch=28.04097, position=(-1.5, 119.0, 23.287462777627752), velocity=(0.0, -0.0784000015258789, 0.0), yaw=93.08345}
+[01:02:00] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/2533, l='ServerLevel[world]', x=0.48, y=118.00, z=24.26] at TeleportTarget{pitch=16.36821, position=(102.5, 63.0, 149.47759915699316), velocity=(0.0, -0.0784000015258789, -0.0), yaw=228.36487}
+[01:02:13] [Server thread/INFO]: Portal located for entity class_3222['DinokoMC'/2533, l='ServerLevel[world]', x=101.88, y=64.00, z=148.68] at TeleportTarget{pitch=34.97116, position=(1.5, 119.0, 22.682892453061243), velocity=(0.0, -0.0784000015258789, 0.0), yaw=3.791944}
+[01:04:11] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[01:09:48] [Server thread/INFO]: [Pikel_03: Gave 1 [Structure Block] to Pikel_03]
+[01:09:52] [Server thread/INFO]: [Pikel_03: Set own game mode to Creative Mode]
+[01:10:53] [Server thread/INFO]: [Pikel_03: Set own game mode to Survival Mode]
+[01:10:56] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to DinokoMC]
