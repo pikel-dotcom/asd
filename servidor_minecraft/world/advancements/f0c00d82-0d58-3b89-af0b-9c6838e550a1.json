@@ -6878,5 +6878,11 @@
     },
     "done": true
   },
+  "master_cutter:recipes/wood/crimson": {
+    "criteria": {
+      "requirement": "2025-06-14 00:27:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
