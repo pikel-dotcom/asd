@@ -17,6 +17,7 @@
       "minecraft:old_growth_pine_taiga": "2025-06-10 02:38:17 +0000",
       "minecraft:taiga": "2025-06-01 03:35:26 +0000",
       "minecraft:deep_ocean": "2025-06-11 02:16:25 +0000",
+      "minecraft:frozen_river": "2025-06-15 04:35:21 +0000",
       "minecraft:sunflower_plains": "2025-06-03 02:22:51 +0000",
       "minecraft:cherry_grove": "2025-06-04 02:12:31 +0000",
       "minecraft:birch_forest": "2025-06-01 04:28:45 +0000",
@@ -47,6 +48,7 @@
       "minecraft:deep_frozen_ocean": "2025-06-10 02:46:43 +0000",
       "minecraft:ocean": "2025-06-02 01:16:21 +0000",
       "minecraft:jungle": "2025-06-07 03:31:59 +0000",
+      "minecraft:snowy_beach": "2025-06-15 04:41:57 +0000",
       "minecraft:windswept_savanna": "2025-06-07 03:27:12 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-11 03:27:26 +0000",
       "minecraft:frozen_peaks": "2025-06-11 02:46:02 +0000",
@@ -5869,7 +5871,8 @@
   },
   "betterend:aeternium_tool": {
     "criteria": {
-      "got_aeternium_sword": "2025-06-04 02:01:04 +0000"
+      "got_aeternium_sword": "2025-06-04 02:01:04 +0000",
+      "got_aeternium_shovel": "2025-06-15 04:41:39 +0000"
     },
     "done": false
   },
@@ -6593,6 +6596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-15 04:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-06-15 04:02:48 +0000"
@@ -6605,6 +6614,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2025-06-15 04:28:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-15 04:33:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2025-06-15 04:17:18 +0000"
@@ -6614,6 +6635,12 @@
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-06-15 04:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-06-15 04:28:35 +0000"
     },
     "done": true
   },
@@ -6644,6 +6671,12 @@
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-06-15 04:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-06-15 04:33:28 +0000"
     },
     "done": true
   },
