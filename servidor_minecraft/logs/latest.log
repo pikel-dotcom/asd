@@ -3955,3 +3955,54 @@ BCLib - The End  BiomeSource (1f531e3)
 [05:30:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [05:30:31] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [05:30:31] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
+[05:38:08] [Server thread/INFO]: [Not Secure] <ziKoc> Clair Obscure Expedetion 33
+[05:39:17] [Server thread/INFO]: Pikel_03 lost connection: Timed out
+[05:39:17] [Server thread/INFO]: Pikel_03 left the game
+[05:40:24] [Server thread/INFO]: Pikel_03[/127.189.11.85:49239] logged in with entity id 96972 at (18.30000001192093, 191.0, 346.5488131260477)
+[05:40:24] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[05:40:24] [Server thread/INFO]: Loading config from file...
+[05:40:24] [Server thread/INFO]: Pikel_03 joined the game
+[05:40:24] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[05:40:25] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05:40:25] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05:40:25] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05:40:25] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05:40:25] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05:40:25] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05:40:25] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05:40:25] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05:40:25] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05:40:25] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05:40:25] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
+[05:43:29] [Server thread/INFO]: [ziKoc: Teleported ziKoc to 1939.500000, 84.500000, -4999.500000]
+[05:44:16] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/96972, l='ServerLevel[world]', x=102.19, y=64.00, z=148.87] at TeleportTarget{pitch=24.2463, position=(1.5, 119.0, 22.86946583965954), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-124.63135}
+[05:45:56] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[05:46:10] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/20589, l='ServerLevel[world]', x=-0.24, y=118.00, z=24.23] at TeleportTarget{pitch=23.532692, position=(102.5, 63.0, 148.7581198796075), velocity=(0.0, -0.0784000015258789, -0.0), yaw=66.19995}
+[05:46:16] [Server thread/INFO]: Portal located for entity class_3222['ziKoc'/20589, l='ServerLevel[world]', x=-0.09, y=118.00, z=24.45] at TeleportTarget{pitch=10.341354, position=(102.5, 63.0, 148.9088010321752), velocity=(0.0, -0.0784000015258789, -0.0), yaw=262.31927}
+[05:46:16] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/96972, l='ServerLevel[world]', x=0.70, y=118.00, z=24.61] at TeleportTarget{pitch=38.74324, position=(102.5, 63.0, 149.69999998807907), velocity=(0.0, -0.0784000015258789, -0.0), yaw=219.41116}
+[05:47:33] [Server thread/INFO]: [ziKoc: Teleported ziKoc to 2515.500000, 101.500000, -968.500000]
+[05:47:48] [Server thread/INFO]: [ziKoc: Teleported ziKoc to 2013.500000, 64.500000, -2192.500000]
+[05:48:04] [Server thread/INFO]: [ziKoc: Teleported ziKoc to 2013.500000, 100.500000, -2192.500000]
+[05:48:21] [Server thread/INFO]: [ziKoc: Teleported ziKoc to -40.500000, 68.500000, 44.500000]
+[05:48:59] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/96972, l='ServerLevel[world]', x=102.54, y=63.00, z=148.87] at TeleportTarget{pitch=38.225525, position=(1.5, 118.0, 22.873339771475116), velocity=(0.0, -0.0784000015258789, 0.0), yaw=163.32562}
+[05:49:06] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -64.500000, 128.500000, -763.500000]
+[05:50:10] [Server thread/INFO]: Pikel_03 lost connection: Timed out
+[05:50:10] [Server thread/INFO]: Pikel_03 left the game
+[05:50:15] [Server thread/INFO]: Pikel_03[/127.189.11.85:35003] logged in with entity id 106574 at (-62.049274319419, 128.0, -763.1214621863513)
+[05:50:15] [Server thread/INFO]: Syncing config to Pikel_03 (afc4c9dd-8d66-358b-8b8b-98baedbba298)
+[05:50:15] [Server thread/INFO]: Loading config from file...
+[05:50:15] [Server thread/INFO]: Pikel_03 joined the game
+[05:50:15] [Server thread/INFO]: Async chunk loading for player Pikel_03 completed
+[05:50:17] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05:50:17] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05:50:17] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05:50:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05:50:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05:50:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05:50:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05:50:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05:50:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05:50:17] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05:50:17] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
+[05:50:22] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 574.500000, 66.500000, 238.500000]
+[05:50:59] [Server thread/INFO]: [Not Secure] <Pikel_03> xaero-waypoint:spawner de wither skeleton:S:574:66:238:15:false:0:Internal-the-nether-waypoints
