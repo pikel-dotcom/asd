@@ -4006,3 +4006,26 @@ BCLib - The End  BiomeSource (1f531e3)
 [05:50:17] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
 [05:50:22] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 574.500000, 66.500000, 238.500000]
 [05:50:59] [Server thread/INFO]: [Not Secure] <Pikel_03> xaero-waypoint:spawner de wither skeleton:S:574:66:238:15:false:0:Internal-the-nether-waypoints
+[05:57:49] [Server thread/INFO]: [Not Secure] <Pikel_03> falling blocks
+[06:02:25] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[06:04:16] [Server thread/WARN]: ziKoc moved wrongly!
+[06:07:22] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[06:07:23] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:07:23] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:07:23] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:07:25] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:07:25] [Worker-Main-3/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:07:26] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:07:30] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:07:30] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:07:30] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:07:30] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:07:30] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:07:30] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:07:34] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:07:41] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[06:07:54] [Server thread/INFO]: [ziKoc: Teleported ziKoc to Pikel_03]
+[06:11:19] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -1.500000, 75.500000, 23.500000]
+[06:11:24] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to -64.500000, 128.500000, -763.500000]
+[06:11:33] [Server thread/INFO]: Portal located for entity class_3222['Pikel_03'/106574, l='ServerLevel[world]', x=-65.00, y=129.00, z=-800.52] at TeleportTarget{pitch=49.791027, position=(-510.00137937502717, -41.0, -6388.5), velocity=(0.0, -0.0784000015258789, 0.0), yaw=112.60205}
+[06:11:40] [Server thread/INFO]: [Pikel_03: Teleported Pikel_03 to 52.500000, 64.500000, 161.500000]
