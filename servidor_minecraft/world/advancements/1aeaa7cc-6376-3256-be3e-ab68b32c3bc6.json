@@ -1261,6 +1261,7 @@
       "minecraft:piglin": "2025-05-31 01:26:32 +0000",
       "minecraft:enderman": "2025-06-01 03:35:15 +0000",
       "minecraft:silverfish": "2025-06-02 00:47:26 +0000",
+      "minecraft:stray": "2025-06-15 06:26:26 +0000",
       "minecraft:zombie": "2025-05-30 03:03:08 +0000",
       "minecraft:zombie_villager": "2025-06-01 05:09:22 +0000"
     },
@@ -6720,6 +6721,18 @@
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2025-06-15 04:17:18 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_snowy": "2025-06-15 06:24:47 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-06-15 06:25:18 +0000"
     },
     "done": true
   },
