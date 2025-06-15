@@ -4057,3 +4057,43 @@ BCLib - The End  BiomeSource (1f531e3)
 [06:33:19] [Server thread/INFO]: [ziKoc: Teleported ziKoc to 449.500000, -49.500000, 3873.500000]
 [06:33:27] [Server thread/INFO]: [ziKoc: Teleported ziKoc to 263.500000, -51.500000, 4091.500000]
 [06:33:45] [Server thread/INFO]: [ziKoc: Teleported ziKoc to 176.500000, -48.500000, 4131.500000]
+[06:45:45] [Server thread/INFO]: ziKoc lost connection: Disconnected
+[06:45:45] [Server thread/INFO]: ziKoc left the game
+[06:45:50] [Server thread/INFO]: ziKoc[/127.59.215.201:48889] logged in with entity id 143940 at (281.5344687510815, -39.0, 4305.486151105927)
+[06:45:50] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[06:45:50] [Server thread/INFO]: Loading config from file...
+[06:45:50] [Server thread/INFO]: ziKoc joined the game
+[06:45:50] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[06:45:50] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[06:45:50] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[06:45:50] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[06:45:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[06:45:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[06:45:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[06:45:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[06:45:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[06:45:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[06:45:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[06:45:50] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
+[06:45:59] [Server thread/INFO]: ziKoc lost connection: Disconnected
+[06:45:59] [Server thread/INFO]: ziKoc left the game
+[06:46:04] [Server thread/INFO]: ziKoc[/127.59.215.201:53975] logged in with entity id 144209 at (281.69999998807907, -39.0, 4304.890103072708)
+[06:46:04] [Server thread/INFO]: Syncing config to ziKoc (1aeaa7cc-6376-3256-be3e-ab68b32c3bc6)
+[06:46:04] [Server thread/INFO]: Loading config from file...
+[06:46:04] [Server thread/INFO]: ziKoc joined the game
+[06:46:04] [Server thread/INFO]: Async chunk loading for player ziKoc completed
+[06:46:05] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[06:46:05] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[06:46:05] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[06:46:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[06:46:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[06:46:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[06:46:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[06:46:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[06:46:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[06:46:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[06:46:05] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/asd/servidor_minecraft/bclib-sync (allowDelete=true)
+[06:47:42] [Server thread/INFO]: [ziKoc: Teleported ziKoc to 72.500000, 64.500000, 160.500000]
+[06:50:48] [Server thread/WARN]: ziKoc moved wrongly!
+[06:51:30] [Server thread/INFO]: ziKoc lost connection: Disconnected
+[06:51:30] [Server thread/INFO]: ziKoc left the game

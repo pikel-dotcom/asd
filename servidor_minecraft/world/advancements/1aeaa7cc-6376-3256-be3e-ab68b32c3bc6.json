@@ -6598,31 +6598,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-06-15 05:44:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-06-15 05:44:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-06-15 04:33:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-06-15 06:07:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-06-15 04:02:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-06-15 04:02:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-06-15 04:02:48 +0000"
     },
@@ -6634,9 +6622,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-06-15 04:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-06-15 04:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-06-15 04:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-06-15 04:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-06-15 04:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-06-15 04:28:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/summon_iron_golem": {
     "criteria": {
       "summoned_golem": "2025-06-15 04:28:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-06-15 04:33:28 +0000"
     },
     "done": true
   },
@@ -6646,9 +6676,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper": {
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
-      "has_copper_block": "2025-06-15 04:17:18 +0000"
+      "has_snowball": "2025-06-15 04:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-15 05:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-06-15 05:44:08 +0000"
     },
     "done": true
   },
@@ -6670,33 +6712,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-06-15 04:17:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-15 05:44:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jack_o_lantern": {
-    "criteria": {
-      "has_carved_pumpkin": "2025-06-15 04:28:35 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/pumpkin": {
-    "criteria": {
-      "has_pumpkin": "2025-06-15 04:02:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2025-06-15 04:17:18 +0000"
     },
     "done": true
   },
@@ -6706,33 +6724,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-06-15 04:02:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-06-15 05:44:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2025-06-15 04:17:18 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_snowy": "2025-06-15 06:24:47 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/tavern_quest": {
-    "criteria": {
-      "open_tavern_chest": "2025-06-15 06:25:18 +0000"
     },
     "done": true
   },
@@ -6772,15 +6766,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "has_copper_block": "2025-06-15 04:17:18 +0000"
+      "has_coal_block": "2025-06-15 06:07:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "nova_structures:adventure/find_tavern": {
     "criteria": {
-      "has_snowball": "2025-06-15 04:33:28 +0000"
+      "nova_structures:tavern_snowy": "2025-06-15 06:24:47 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-06-15 06:25:18 +0000"
     },
     "done": true
   },
