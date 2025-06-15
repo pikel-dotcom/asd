@@ -31,6 +31,7 @@
       "minecraft:river": "2025-05-31 01:14:00 +0000",
       "minecraft:lukewarm_ocean": "2025-06-11 02:26:57 +0000",
       "minecraft:stony_shore": "2025-06-02 03:26:54 +0000",
+      "minecraft:snowy_plains": "2025-06-15 04:17:13 +0000",
       "minecraft:snowy_taiga": "2025-06-10 02:38:22 +0000",
       "minecraft:dripstone_caves": "2025-06-11 01:55:39 +0000",
       "minecraft:swamp": "2025-06-07 02:42:55 +0000",
@@ -6598,15 +6599,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-06-15 04:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-06-15 04:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-06-15 04:17:18 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/pumpkin": {
     "criteria": {
       "has_pumpkin": "2025-06-15 04:02:48 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-06-15 04:17:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-06-15 04:02:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-06-15 04:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-06-15 04:17:18 +0000"
     },
     "done": true
   },
